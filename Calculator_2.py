@@ -147,7 +147,7 @@ def Roots():
         
 
 
-""" class Sci_Calculator:
+class Sci_Calculator:
     def __init__(self, master):
    
         self.master = master
@@ -803,5 +803,5 @@ def Roots():
 
 root = tk.Tk()
 first_gui = Sci_Calculator(root)
-root.geometry('') """
+root.geometry('')
 #root.mainloop()
