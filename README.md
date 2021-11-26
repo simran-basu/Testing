@@ -42,12 +42,12 @@ A total of 24 test cases were written for unit testing.
 
 The following mutation operators were used:
 
-1.ROR (Relational Operator Replacement)
-2.CRP (Constant Replacement)
-3.COI (Conditional Operator Insertion)
-4.ASR (Assignment Operator Replacement)
-5.AOR (Arithmetic Operator Replacement)
-6.AOD (Arithmetic Operator Deletion)
+- ROR (Relational Operator Replacement)
+- CRP (Constant Replacement)
+- COI (Conditional Operator Insertion)
+- ASR (Assignment Operator Replacement)
+- AOR (Arithmetic Operator Replacement)
+- AOD (Arithmetic Operator Deletion)
 
 ### Results
 A total of 203 mutants were generated out of which 42 mutants were strongly killed with a Mutation Score of 22.2%. We were able to target 4 different classes of mutation operators, namely Relational, Conditional, Arithmetic, Assignment Operators, and Constants. The detailed report for the same can be viewed in the HTML file namely "index.html" in the Mutation_Documentation folder.
