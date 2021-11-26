@@ -64,7 +64,7 @@ A total of 203 mutants were generated out of which 42 mutants were strongly kill
 Each of the team member was responsible to create unit test cases for the 14 functions keeping in mind which operator could be used for mutation testing, and on the basis of that, the 14 functions were chosen for testing. Following is the contribution of each of the team member:
 - Jyotsna Tata (MT2020020): LCM, Permutation, Floor, Ceil
 - Simran Basu (MT2020145): Factorial, Combination, Sin, Cos, Tan, Sqrt
-- Md. Jawed Aqueeb (MT2020110): Roots, GCD, Log, Fmod
+- Md Aqueeb Jawed (MT2020110): Roots, GCD, Log, Fmod
 
 ### GitHub Link
 https://github.com/simran-basu/Testing.git
